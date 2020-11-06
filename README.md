@@ -1,5 +1,4 @@
-#Primo Progetto per il corso di Social Computing
-##A.A. 2020/21
+# Primo Progetto per il corso di Social Computing (A.A. 2020/21)
 
 1. Scaricate utenti followers (api.followers) e utenti following (api.friends) di
 questi cinque account (i dati numerici potrebbero subire minime variazioni):
@@ -45,11 +44,10 @@ scaricate ulteriori 10 utenti following (following dei following)
 13. Calcolare la correlazione di Pearson Rho e di Kendall Tau fra le misure di centralità;
 riportare il risultato in due tabelle
 
-###Informazioni aggiuntive
+## Informazioni aggiuntive
 
 - Viste le limitazione poste sugli endpoint da Twitter, durante la prima fase
 parallelizzate il lavoro (ognuno scarica dati da un account alla volta), serializzate e
 deserializzate a posteriori
 - Tutte le misure, proprietà e verifiche richieste sono definite nella documentazione di
-NetworkX (i link alla documentazione di NetworkX vengono riportati accanto al nome
-di ciascuna misura richiesta)
+NetworkX 
