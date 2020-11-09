@@ -61,7 +61,7 @@ def getFollowing(account, path):
 
 #getFollowers("mizzaro", "mizzaroFollowers.json")
 #getFollowers("damiano10", "damiano10Followers.json")
-#getFollowers("Miccighel_", "Miccighel_Followers.json")
+getFollowers("Miccighel_", "Miccighel_Followers.json")
 #getFollowers("eglu81", "eglu81Followers.json")
 #getFollowers("KevinRoitero", "KevinRoiteroFollowers.json")
 
@@ -69,4 +69,4 @@ def getFollowing(account, path):
 #getFollowing("damiano10", "damiano10Followers.json")
 #getFollowing("Miccighel_", "Miccighel_Followers.json")
 #getFollowing("eglu81", "eglu81Followers.json")
-getFollowing("KevinRoitero", "KevinRoiteroFollowings.json")
+#getFollowing("KevinRoitero", "KevinRoiteroFollowings.json")
