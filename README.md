@@ -51,3 +51,11 @@ parallelizzate il lavoro (ognuno scarica dati da un account alla volta), seriali
 deserializzate a posteriori
 - Tutte le misure, proprietà e verifiche richieste sono definite nella documentazione di
 NetworkX 
+
+## Divisione Raccolta Dati
+- mizzaro10: Emanuele
+- damiano10: 
+- Miccighel_: Thomas
+- eglu81: Samuele
+- KevinRoitero: Claudio
+
